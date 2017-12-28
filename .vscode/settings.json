@@ -1,0 +1,4 @@
+{
+  "python.venvPath": "${env:WORKON_HOME}/simple-blockchain",
+  "python.pythonPath": "${env:WORKON_HOME}/simple-blockchain/bin/python"
+}
